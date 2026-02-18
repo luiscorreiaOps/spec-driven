@@ -1,0 +1,6 @@
+- [x] Create infra folder
+- [x] Configure null provider
+- [x] Define null_resource
+- [x] Run tofu init
+- [x] Run tofu plan
+- [x] Run tofu apply
